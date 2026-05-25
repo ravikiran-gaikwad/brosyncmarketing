@@ -83,7 +83,7 @@ const FOOTER_HTML = `
         <p style="margin-top:12px;">Your performance-led digital growth partner. Strategy. Creativity. Results.</p>
         <div style="margin-top:20px;">
           <h6 style="color:rgba(255,255,255,0.8);font-size:0.82rem;font-weight:600;margin-bottom:6px;">Pune Office</h6>
-          <p style="font-size:0.82rem;color:rgba(255,255,255,0.5);">Pune, Maharashtra, India</p>
+          <p style="font-size:0.82rem;color:rgba(255,255,255,0.5);">Shop No 40, Kakade Terrace, Ganpathi Matha, NDA Rd, Warje, Pune, Maharashtra, India 411058</p>
           <p style="font-size:0.82rem;color:rgba(255,255,255,0.5);margin-top:4px;"><a href="http://www.brosyncmarketing.in" target="_blank" style="color:rgba(255,69,0,0.8);">www.brosyncmarketing.in</a></p>
         </div>
         <div class="footer-socials">
